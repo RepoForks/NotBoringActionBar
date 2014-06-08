@@ -9,6 +9,8 @@ An explaination on how to implement the edition screen of the Newsstand app.
 
 ![Example Image][1]
 
+To use this fork you will need to get nineoldandroids librery and appcompt.
+
 License
 -----------
 
